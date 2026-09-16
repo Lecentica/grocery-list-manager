@@ -1,4 +1,4 @@
-//Name
+//Brayden Kim
 import java.util.Scanner;
 //Runner Class
 public class GroceryList 
